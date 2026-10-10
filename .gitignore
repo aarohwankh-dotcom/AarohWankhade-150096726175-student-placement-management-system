@@ -1,0 +1,30 @@
+# Compiled Java Bytecode
+*.class
+*.jar
+*.war
+*.ear
+
+# Archive Files (local submission zip kept on computer)
+*.zip
+*.tar.gz
+*.rar
+
+# macOS and OS Metadata
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor Configurations
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# Private Viva & Revision Material (Retained locally for external viva examination)
+viva_study_material/
