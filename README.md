@@ -21,7 +21,7 @@
 | **Case Study** | **Case Study 31: Student Placement Management System** |
 | **Institution** | School of FutureTech, ITM Skills University |
 | **Official Report** | [📄 Download PROJECT_REPORT.pdf](./PROJECT_REPORT.pdf) |
-| **GitHub Repository** | [🔗 student-placement-management-system](https://github.com/aarohwankh-dotcom/student-placement-management-system) |
+| **GitHub Repository** | [🔗 AarohWankhade-150096726175-student-placement-management-system](https://github.com/aarohwankh-dotcom/AarohWankhade-150096726175-student-placement-management-system) |
 
 ---
 
@@ -130,7 +130,7 @@ The entire system is self-contained in a single, well-structured Java file (`Stu
 ### Step 1: Open Terminal
 Navigate to the repository directory:
 ```bash
-cd "student-placement-management-system"
+cd "AarohWankhade-150096726175-student-placement-management-system"
 ```
 
 ### Step 2: Compile
@@ -217,7 +217,7 @@ Triggered when attempting to schedule an interview for an applicant whose status
 ## 9. Repository File Structure
 
 ```text
-student-placement-management-system/
+AarohWankhade-150096726175-student-placement-management-system/
 ├── StudentPlacementManagementSystem.java   # Complete Core Java & Swing source code (Single File)
 ├── PROJECT_REPORT.pdf                     # Official 14-page university project report PDF
 ├── README.md                              # Comprehensive documentation and project guide
@@ -254,7 +254,7 @@ When submitting this project for academic evaluation:
 
 1. **Source Code:** [`StudentPlacementManagementSystem.java`](./StudentPlacementManagementSystem.java) — All-in-one executable source containing all classes, models, exceptions, collections, algorithms, and Swing GUI.
 2. **Official Documentation:** [`PROJECT_REPORT.pdf`](./PROJECT_REPORT.pdf) — Complete 14-page formatted university project report containing syllabus mappings, code walkthrough, test cases, and execution results.
-3. **GitHub Repository:** [https://github.com/aarohwankh-dotcom/student-placement-management-system](https://github.com/aarohwankh-dotcom/student-placement-management-system) — Clean, version-controlled repository for portal link submission.
+3. **GitHub Repository:** [https://github.com/aarohwankh-dotcom/AarohWankhade-150096726175-student-placement-management-system](https://github.com/aarohwankh-dotcom/AarohWankhade-150096726175-student-placement-management-system) — Clean, version-controlled repository for portal link submission.
 
 ---
 
